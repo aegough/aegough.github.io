@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aegough.github.io/index.html/index.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/index.html"/>
+    <image:image>
+      <image:loc>https://aegough.github.io/index.html/images/4888946.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/phone/vt.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/k.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/k.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/images.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/images.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/cv.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/cv.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/contact.html</loc>
+    <lastmod>2017-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/contact.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/phone/t-ltd.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/bodyb.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/bodyb.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/t-ltd.-installation.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/incubation-period.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/incubation-period.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/blue-angel-ii.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/blue-angel-ii.html"/>
+  </url>
+  <url>
+    <loc>https://aegough.github.io/index.html/virtual-terrarium.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
