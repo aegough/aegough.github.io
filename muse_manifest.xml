@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1523751980096">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1523755065459">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4292795802" ref="bodyb:illustration:index:incubation-period:virtual-terrarium:t-ltd.-installation:k:blue-angel-ii:contact:cvlinks:music:images"/>
     <file name="bodyb.css" crc="400983163" ref="bodyb"/>
     <file name="illustration.css" crc="15490470" ref="illustration"/>
-    <file name="index.css" crc="165173182" ref="index"/>
+    <file name="index.css" crc="151195157" ref="index"/>
     <file name="incubation-period.css" crc="311617083" ref="incubation-period"/>
     <file name="virtual-terrarium.css" crc="155059307" ref="virtual-terrarium"/>
     <file name="t-ltd_-installation.css" crc="3977325370" ref="t-ltd.-installation"/>
@@ -21,7 +21,6 @@
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
     <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="require.js" crc="4157109226" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
@@ -36,14 +35,14 @@
     <file name="u2243-4.png" crc="228345287" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
     <file name="u2272-4.png" crc="4099545586" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
     <file name="u3748-4.png" crc="4183935133" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
-    <file name="k7.jpg" crc="3798372558" ref="phone>index">
+    <file name="cherumbim.jpg" crc="3963449073" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3164-5.png" crc="3942329846" ref="phone>k"/>
     <file name="u3416-5.png" crc="4286664634" ref="phone>bodyb"/>
     <file name="u3505-8.png" crc="3791302858" ref="phone>incubation-period"/>
     <file name="u2347-14.png" crc="312971038" ref="phone>contact"/>
-    <file name="u2350-38.png" crc="4058991900" ref="phone>cvlinks"/>
+    <file name="u2350-44.png" crc="3811848225" ref="phone>cvlinks"/>
     <file name="u4458-4.png" crc="441721517" ref="phone>cvlinks"/>
     <file name="u4461-4.png" crc="3973187812" ref="phone>cvlinks"/>
     <file name="u4457-4.png" crc="4015865117" ref="phone>cvlinks"/>
@@ -54,6 +53,7 @@
     <file name="u3745-3.png" crc="91790958" ref="phone>blue-angel-ii"/>
     <file name="u3459-7.png" crc="165571883" ref="phone>t-ltd"/>
     <file name="u3477-6.png" crc="29453660" ref="phone>vt"/>
+    <file name="u4774-5.png" crc="397681283" ref="phone>illustration"/>
     <file name="u4442-6.png" crc="358432166" ref="phone>music"/>
     <file name="u4441-4.png" crc="298681833" ref="phone>music"/>
     <file name="u4443-7.png" crc="286411765" ref="phone>music"/>
@@ -66,7 +66,7 @@
     <file name="u482-4.png" crc="464909736" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="u786-4.png" crc="349215229" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="u3751-4.png" crc="490811808" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
-    <file name="11.jpg" crc="269086958" ref="index">
+    <file name="hhhh.jpg" crc="4115256639" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="154398313" ref="images"/>
@@ -100,41 +100,41 @@
     <folder name="css">
       <file name="master_a-master.css" crc="486106644" ref="phone>incubation-period:phone>illustration:phone>bodyb:phone>vt:phone>k:phone>t-ltd:phone>images:phone>blue-angel-ii:phone>index:phone>cvlinks:phone>contact:phone>music"/>
       <file name="incubation-period.css" crc="4131051922" ref="phone>incubation-period"/>
-      <file name="illustration.css" crc="163328204" ref="phone>illustration"/>
+      <file name="illustration.css" crc="506128845" ref="phone>illustration"/>
       <file name="bodyb.css" crc="4139883075" ref="phone>bodyb"/>
       <file name="vt.css" crc="512617976" ref="phone>vt"/>
       <file name="k.css" crc="3933555673" ref="phone>k"/>
       <file name="t-ltd.css" crc="4048013227" ref="phone>t-ltd"/>
       <file name="images.css" crc="347740482" ref="phone>images"/>
       <file name="blue-angel-ii.css" crc="4095829821" ref="phone>blue-angel-ii"/>
-      <file name="index.css" crc="4166220412" ref="phone>index"/>
-      <file name="cvlinks.css" crc="30321405" ref="phone>cvlinks"/>
+      <file name="index.css" crc="533873894" ref="phone>index"/>
+      <file name="cvlinks.css" crc="37018331" ref="phone>cvlinks"/>
       <file name="contact.css" crc="462552371" ref="phone>contact"/>
       <file name="music.css" crc="261297781" ref="phone>music"/>
     </folder>
-    <file name="index.html" crc="535492060" seo="true" mt="1523657988813" redirect="true"/>
+    <file name="index.html" crc="242689258" seo="true" mt="1523753549055" redirect="true"/>
     <file name="images.html" crc="112181497" seo="true" mt="1523657988813" redirect="true"/>
     <file name="k.html" crc="312090570" seo="true" mt="1523657988813" redirect="true"/>
     <file name="bodyb.html" crc="3946071724" seo="true" mt="1523657988813" redirect="true"/>
     <file name="incubation-period.html" crc="4226697501" seo="true" mt="1523657988813" redirect="true"/>
     <file name="contact.html" crc="191840047" seo="true" mt="1523657988813" redirect="true"/>
-    <file name="cvlinks.html" crc="4221982617" seo="true" mt="1523657988813" redirect="true"/>
+    <file name="cvlinks.html" crc="4063529523" seo="true" mt="1523754273248" redirect="true"/>
     <file name="blue-angel-ii.html" crc="4138820023" seo="true" mt="1523657988813" redirect="true"/>
     <file name="t-ltd.html" crc="1893159" seo="true" mt="1523657988813" redirect="true"/>
     <file name="vt.html" crc="3930537287" seo="true" mt="1523657988813" redirect="true"/>
-    <file name="illustration.html" crc="337961907" seo="true" mt="1523657988813" redirect="true"/>
+    <file name="illustration.html" crc="3792863391" seo="true" mt="1523754211862" redirect="true"/>
     <file name="music.html" crc="3950433427" seo="true" mt="1523657988813" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3891034782" seo="true" mt="1523751903463" redirect="true"/>
-  <file name="images.html" crc="517718198" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="cvlinks.html" crc="55500466" seo="true" mt="1523749755086" redirect="true"/>
-  <file name="contact.html" crc="3847268426" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="k.html" crc="4273358966" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="bodyb.html" crc="4012136310" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="t-ltd.-installation.html" crc="481353889" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="incubation-period.html" crc="3973286764" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="blue-angel-ii.html" crc="4112399314" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="virtual-terrarium.html" crc="254123511" seo="true" mt="1523657917909" redirect="true"/>
-  <file name="illustration.html" crc="4106436950" seo="true" mt="1523751232360" redirect="true"/>
-  <file name="music.html" crc="482763110" seo="true" mt="1523749601602" redirect="true"/>
+  <file name="index.html" crc="10595476" seo="true" mt="1523755015496" redirect="true"/>
+  <file name="images.html" crc="517718198" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="cvlinks.html" crc="55500466" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="contact.html" crc="3847268426" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="k.html" crc="4273358966" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="bodyb.html" crc="4012136310" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="t-ltd.-installation.html" crc="481353889" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="incubation-period.html" crc="3973286764" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="blue-angel-ii.html" crc="4112399314" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="virtual-terrarium.html" crc="254123511" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="illustration.html" crc="4106436950" seo="true" mt="1523753740202" redirect="true"/>
+  <file name="music.html" crc="482763110" seo="true" mt="1523753740202" redirect="true"/>
 </manifest>
