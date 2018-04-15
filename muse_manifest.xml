@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1523794922319">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1523796160204">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4292795802" ref="bodyb:k:contact:cvlinks:incubation-period:illustration:images:t-ltd.-installation:virtual-terrarium:music:index:blue-angel-ii"/>
@@ -35,7 +35,8 @@
     <file name="u2243-4.png" crc="3777987609" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
     <file name="u2272-4.png" crc="217726623" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
     <file name="u3748-4.png" crc="4183935133" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music"/>
-    <file name="4.jpg" crc="3929348403" ref="phone>index">
+    <file name="hhhh.jpg" crc="4115256639" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3164-5.png" crc="3942329846" ref="phone>k"/>
@@ -67,9 +68,6 @@
     <file name="u482-4.png" crc="3898218368" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="u786-4.png" crc="170636035" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="u3751-4.png" crc="490811808" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
-    <file name="hhhh.jpg" crc="4115256639" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="a-master-favicon.ico" crc="154398313" ref="images"/>
     <file name="u315-51.png" crc="338517477" ref="cvlinks"/>
     <file name="u4246-4.png" crc="3802183868" ref="cvlinks"/>
@@ -109,12 +107,12 @@
       <file name="images.css" crc="4021215491" ref="phone>images"/>
       <file name="contact.css" crc="506910770" ref="phone>contact"/>
       <file name="vt.css" crc="320120162" ref="phone>vt"/>
-      <file name="index.css" crc="3947994478" ref="phone>index"/>
+      <file name="index.css" crc="3969278880" ref="phone>index"/>
       <file name="incubation-period.css" crc="480416523" ref="phone>incubation-period"/>
       <file name="bodyb.css" crc="3807736572" ref="phone>bodyb"/>
       <file name="t-ltd.css" crc="3808479832" ref="phone>t-ltd"/>
     </folder>
-    <file name="index.html" crc="3897064361" seo="true" mt="1523794739197" redirect="true"/>
+    <file name="index.html" crc="4272149428" seo="true" mt="1523796121401" redirect="true"/>
     <file name="images.html" crc="1432945" seo="true" mt="1523788699847" redirect="true"/>
     <file name="k.html" crc="3807527639" seo="true" mt="1523788699847" redirect="true"/>
     <file name="bodyb.html" crc="78317633" seo="true" mt="1523788699847" redirect="true"/>
