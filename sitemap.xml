@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/cvlinks.html</loc>
-    <lastmod>2018-06-27</lastmod>
+    <lastmod>2018-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/cvlinks.html"/>
@@ -93,11 +93,5 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/music.html"/>
-  </url>
-  <url>
-    <loc>https://aegough.github.io/index.html/chorusofangeldog.html</loc>
-    <lastmod>2018-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

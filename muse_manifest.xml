@@ -1,31 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1530101367096">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://aegough.github.io/index.html" resolutions="1x" timestamp="1541531104810">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3894569449" ref="blue-angel-ii:music:k:illustration:index:virtual-terrarium:chorusofangeldog:incubation-period:t-ltd.-installation:bodyb:contact:cvlinks:images"/>
-    <file name="blue-angel-ii.css" crc="4255684365" ref="blue-angel-ii"/>
+    <file name="master_a-master.css" crc="3894569449" ref="music:bodyb:k:t-ltd.-installation:index:incubation-period:images:blue-angel-ii:cvlinks:virtual-terrarium:contact:illustration"/>
     <file name="music.css" crc="7110236" ref="music"/>
-    <file name="k.css" crc="17221688" ref="k"/>
-    <file name="illustration.css" crc="4169338572" ref="illustration"/>
-    <file name="index.css" crc="201234696" ref="index"/>
-    <file name="virtual-terrarium.css" crc="394512120" ref="virtual-terrarium"/>
-    <file name="chorusofangeldog.css" crc="3956855049" ref="chorusofangeldog"/>
-    <file name="incubation-period.css" crc="106896743" ref="incubation-period"/>
-    <file name="t-ltd_-installation.css" crc="131381008" ref="t-ltd.-installation"/>
     <file name="bodyb.css" crc="4239132558" ref="bodyb"/>
-    <file name="contact.css" crc="3965929758" ref="contact"/>
-    <file name="cvlinks.css" crc="407046715" ref="cvlinks"/>
+    <file name="k.css" crc="17221688" ref="k"/>
+    <file name="t-ltd_-installation.css" crc="131381008" ref="t-ltd.-installation"/>
+    <file name="index.css" crc="201234696" ref="index"/>
+    <file name="incubation-period.css" crc="106896743" ref="incubation-period"/>
     <file name="images.css" crc="370432572" ref="images"/>
+    <file name="blue-angel-ii.css" crc="4255684365" ref="blue-angel-ii"/>
+    <file name="cvlinks.css" crc="3863377721" ref="cvlinks"/>
+    <file name="virtual-terrarium.css" crc="394512120" ref="virtual-terrarium"/>
+    <file name="contact.css" crc="3965929758" ref="contact"/>
+    <file name="illustration.css" crc="4169338572" ref="illustration"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>images:phone>k:phone>bodyb:phone>incubation-period:phone>contact:phone>cvlinks:phone>blue-angel-ii:phone>t-ltd:phone>vt:phone>illustration:phone>music:tablet>index:index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="3815520641" ref="phone>index"/>
@@ -64,21 +63,22 @@
     <file name="u5137-4.png" crc="4052869732" ref="phone>music"/>
     <file name="u4441-4.png" crc="298681833" ref="phone>music"/>
     <file name="u4443-7.png" crc="286411765" ref="phone>music"/>
-    <file name="u411-4.png" crc="364850089" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u417-4.png" crc="4071586872" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u4011-4.png" crc="3768071146" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u3906-4.png" crc="4197215290" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u454-4.png" crc="368692064" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u482-4.png" crc="3898218368" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u786-4.png" crc="170636035" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u3751-4.png" crc="490811808" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
-    <file name="u5039-4.png" crc="60969971" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music:chorusofangeldog"/>
+    <file name="u411-4.png" crc="364850089" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u417-4.png" crc="4071586872" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u4011-4.png" crc="3768071146" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u3906-4.png" crc="4197215290" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u454-4.png" crc="368692064" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u482-4.png" crc="3898218368" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u786-4.png" crc="170636035" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u3751-4.png" crc="490811808" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
+    <file name="u5039-4.png" crc="60969971" ref="index:images:cvlinks:contact:k:bodyb:t-ltd.-installation:incubation-period:blue-angel-ii:virtual-terrarium:illustration:music"/>
     <file name="p1110726.jpg" crc="351521594" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="154398313" ref="images"/>
-    <file name="u315-51.png" crc="338517477" ref="cvlinks"/>
+    <file name="u315-60.png" crc="3828813332" ref="cvlinks"/>
     <file name="u4246-4.png" crc="3802183868" ref="cvlinks"/>
+    <file name="u5140-4.png" crc="528616497" ref="cvlinks"/>
     <file name="u4255-4.png" crc="133678137" ref="cvlinks"/>
     <file name="u4243-4.png" crc="3813090152" ref="cvlinks"/>
     <file name="u4249-4.png" crc="3819147711" ref="cvlinks"/>
@@ -108,19 +108,19 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4136527822" ref="phone>blue-angel-ii:phone>incubation-period:phone>t-ltd:phone>index:phone>vt:phone>images:phone>illustration:phone>k:phone>music:phone>bodyb:phone>cvlinks:phone>contact"/>
-      <file name="blue-angel-ii.css" crc="225316100" ref="phone>blue-angel-ii"/>
-      <file name="incubation-period.css" crc="4074833814" ref="phone>incubation-period"/>
-      <file name="t-ltd.css" crc="159283601" ref="phone>t-ltd"/>
-      <file name="index.css" crc="4114768117" ref="phone>index"/>
-      <file name="vt.css" crc="246424188" ref="phone>vt"/>
-      <file name="images.css" crc="4067354840" ref="phone>images"/>
-      <file name="illustration.css" crc="355935893" ref="phone>illustration"/>
-      <file name="k.css" crc="4163448059" ref="phone>k"/>
-      <file name="music.css" crc="306253331" ref="phone>music"/>
+      <file name="master_a-master.css" crc="4136527822" ref="phone>bodyb:phone>illustration:phone>incubation-period:phone>music:phone>contact:phone>cvlinks:phone>index:phone>blue-angel-ii:phone>images:phone>t-ltd:phone>k:phone>vt"/>
       <file name="bodyb.css" crc="4198878836" ref="phone>bodyb"/>
-      <file name="cvlinks.css" crc="3894471405" ref="phone>cvlinks"/>
+      <file name="illustration.css" crc="355935893" ref="phone>illustration"/>
+      <file name="incubation-period.css" crc="4074833814" ref="phone>incubation-period"/>
+      <file name="music.css" crc="306253331" ref="phone>music"/>
       <file name="contact.css" crc="164283494" ref="phone>contact"/>
+      <file name="cvlinks.css" crc="3894471405" ref="phone>cvlinks"/>
+      <file name="index.css" crc="4114768117" ref="phone>index"/>
+      <file name="blue-angel-ii.css" crc="225316100" ref="phone>blue-angel-ii"/>
+      <file name="images.css" crc="4067354840" ref="phone>images"/>
+      <file name="t-ltd.css" crc="159283601" ref="phone>t-ltd"/>
+      <file name="k.css" crc="4163448059" ref="phone>k"/>
+      <file name="vt.css" crc="246424188" ref="phone>vt"/>
     </folder>
     <file name="index.html" crc="488969166" seo="true" mt="1530101256128" redirect="true"/>
     <file name="images.html" crc="474303586" seo="true" mt="1530099333953" redirect="true"/>
@@ -137,7 +137,7 @@
   </folder>
   <file name="index.html" crc="366274776" seo="true" mt="1530101231941" redirect="true"/>
   <file name="images.html" crc="4266332624" seo="true" mt="1530099258469" redirect="true"/>
-  <file name="cvlinks.html" crc="32809979" seo="true" mt="1530099258469" redirect="true"/>
+  <file name="cvlinks.html" crc="410813998" seo="true" mt="1541530771610" redirect="true"/>
   <file name="contact.html" crc="227866300" seo="true" mt="1530099258469" redirect="true"/>
   <file name="k.html" crc="71836688" seo="true" mt="1530099258469" redirect="true"/>
   <file name="bodyb.html" crc="136487558" seo="true" mt="1530099258469" redirect="true"/>
@@ -147,5 +147,4 @@
   <file name="virtual-terrarium.html" crc="3853073395" seo="true" mt="1530099258469" redirect="true"/>
   <file name="illustration.html" crc="212968025" seo="true" mt="1530099258469" redirect="true"/>
   <file name="music.html" crc="4237679494" seo="true" mt="1530099982044" redirect="true"/>
-  <file name="chorusofangeldog.html" crc="4189381898" seo="true" mt="1530099258469" redirect="true"/>
 </manifest>
