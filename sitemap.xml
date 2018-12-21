@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aegough.github.io/index.html/index.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/index.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/phone/vt.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/phone/t-ltd.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
