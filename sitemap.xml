@@ -5,51 +5,33 @@
     <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/index.html"/>
-  </url>
-  <url>
-    <loc>https://aegough.github.io/index.html/phone/vt.html</loc>
-    <lastmod>2018-12-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://aegough.github.io/index.html/bodyb.html</loc>
-    <lastmod>2018-12-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/bodyb.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/images.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/images.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/cvlinks.html</loc>
     <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/cvlinks.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/contact.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/contact.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/k.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/k.html"/>
   </url>
   <url>
-    <loc>https://aegough.github.io/index.html/phone/t-ltd.html</loc>
+    <loc>https://aegough.github.io/index.html/bodyb.html</loc>
     <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -62,17 +44,15 @@
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/incubation-period.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/incubation-period.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/blue-angel-ii.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/blue-angel-ii.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/virtual-terrarium.html</loc>
@@ -82,16 +62,14 @@
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/illustration.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/illustration.html"/>
   </url>
   <url>
     <loc>https://aegough.github.io/index.html/music.html</loc>
-    <lastmod>2018-12-20</lastmod>
+    <lastmod>2018-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://aegough.github.io/index.html/phone/music.html"/>
   </url>
 </urlset>
